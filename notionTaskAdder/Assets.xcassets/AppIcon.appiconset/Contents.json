@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2024-03-17 20.25.21 - Design an iOS app icon for a simple app that integrates with Notion to add Assignments to a database. The icon should reflect Notion's color scheme, p.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
